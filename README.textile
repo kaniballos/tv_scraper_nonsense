@@ -1,0 +1,1 @@
+Scrapes the schedule used for Sky's EPG to get the week's schedule for assorted channels.
